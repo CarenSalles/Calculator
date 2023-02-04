@@ -16,7 +16,20 @@ Stack a utilizar:
 
 Se deberá realizar la aplicación con Vue 3 y realizar test unitarios con Vitest. Se podrá utilizar Bootstrap, Vuetify o cualquier otra libreria CSS.
 
-​
+
+Enlace figma sketch y prototype:
+https://www.figma.com/files/recent?fuid=1168853209691166883
+
+​Desenvolvedores : Caren Salles y Saúl Aguinaga.
+
+Herramientas utilizadas:
+# JavaScript 
+# Vue3
+# Css
+# Figma
+
+
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
