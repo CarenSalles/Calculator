@@ -22,11 +22,12 @@ https://www.figma.com/files/recent?fuid=1168853209691166883
 
 ​Desenvolvedores : Caren Salles y Saúl Aguinaga.
 
-Herramientas utilizadas:
-# JavaScript 
-# Vue3
-# Css
-# Figma
+# Herramientas utilizadas:
+
+### JavaScript 
+### Vue3
+### Css
+### Figma
 
 
 
