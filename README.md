@@ -15,10 +15,9 @@ Tecla M+ para poner en memoria el número actual (se deberá utilizar el local s
 Stack a utilizar:
 
 Se deberá realizar la aplicación con Vue 3 y realizar test unitarios con Vitest. Se podrá utilizar Bootstrap, Vuetify o cualquier otra libreria CSS.
-
-
+![Captura de tela 2023-03-11 080132](https://user-images.githubusercontent.com/116892294/224470329-0508c56a-d091-4143-884a-f26ad38e5b57.png)
 Enlace figma sketch y prototype:
-https://www.figma.com/files/recent?fuid=1168853209691166883
+https://www.figma.com/file/L5CHkj4S7l9QQELKqXRGej/Untitled?node-id=0%3A1&t=olcUS4o3p6QsuGlD-0
 
 ​Desenvolvedores : Caren Salles y Saúl Aguinaga.
 
